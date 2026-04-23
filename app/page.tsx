@@ -269,7 +269,7 @@ export default function Home() {
       </div>
 
       <a
-        href="https://www.ericblo.com/"
+        href="https://www.ericblo.com/thebestpeople"
         target="_blank"
         rel="noopener noreferrer"
         className="absolute right-8 top-1/2 -translate-y-1/2 text-2xl font-bold text-white hover:text-blue-400 transition-colors duration-300"
