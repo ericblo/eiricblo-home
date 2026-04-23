@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/thebestpeople",
+      "destination": "https://thebestpeople.vercel.app"
+    },
+    {
+      "source": "/thebestpeople/:path*",
+      "destination": "https://thebestpeople.vercel.app/:path*"
+    }
+  ]
+}
