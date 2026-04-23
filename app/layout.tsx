@@ -8,9 +8,9 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'ericblo',
-  description: 'Data Analytics & Strategy', // Might as well update this too!
+  description: 'Data Analytics & Strategy',
   icons: {
-    icon: '/favicon.png', // This forces one icon for both light/dark modes
+    icon: '/favicon.png',
     apple: '/favicon.png',
   },
 }
