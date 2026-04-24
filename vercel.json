@@ -9,8 +9,12 @@
       "destination": "https://v0-thebestpeople.vercel.app/thebestpeople/:path*"
     },
     {
-      "source": "/balticway/:match*",
-      "destination": "https://v0-baltic-way-visualization.vercel.app/:match*"
+      "source": "/balticway",
+      "destination": "https://v0-baltic-way-visualization.vercel.app/balticway"
+    },
+    {
+      "source": "/balticway/:path*",
+      "destination": "https://v0-baltic-way-visualization.vercel.app/balticway/:path*"
     }
   ]
 }
