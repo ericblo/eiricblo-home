@@ -7,6 +7,10 @@
     {
       "source": "/thebestpeople/:path*",
       "destination": "https://v0-thebestpeople.vercel.app/thebestpeople/:path*"
+    },
+    {
+      "source": "/balticway/:match*",
+      "destination": "https://your-baltic-project-deployment.vercel.app/:match*"
     }
   ]
 }
