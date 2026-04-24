@@ -275,6 +275,14 @@ export default function Home() {
       >
         thebestpeople
       </a>
+      <a
+        href="https://ericblo.com/balticway"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="absolute right-16 top-1/2 translate-y-8 text-2xl font-bold text-white hover:text-blue-400 transition-colors duration-300"
+      >
+        balticway
+      </a>
     </div>
   )
 }
