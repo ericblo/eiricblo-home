@@ -10,11 +10,11 @@
     },
     {
       "source": "/balticway",
-      "destination": "https://v0-baltic-way-visualization.vercel.app/"
+      "destination": "https://v0-baltic-way-visualization.vercel.app/balticway"
     },
     {
       "source": "/balticway/:path*",
-      "destination": "https://v0-baltic-way-visualization.vercel.app/:path*"
+      "destination": "https://v0-baltic-way-visualization.vercel.app/balticway/:path*"
     }
   ]
 }
