@@ -20,11 +20,11 @@ const nextConfig = {
       // The Best People
       {
         source: '/thebestpeople',
-        destination: 'https://<your-thebestpeople-deployment>.vercel.app/thebestpeople',
+        destination: 'https://v0-thebestpeople.vercel.app/thebestpeople',
       },
       {
         source: '/thebestpeople/:path*',
-        destination: 'https://<your-thebestpeople-deployment>.vercel.app/thebestpeople/:path*',
+        destination: 'https://v0-thebestpeople.vercel.app/thebestpeople/:path*',
       },
     ]
   },
